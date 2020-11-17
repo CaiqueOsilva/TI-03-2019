@@ -1,4 +1,5 @@
 #!/bin/bash
+clean
 
 echo -e "Atualizando as listas do APT
     apt update"
@@ -21,3 +22,4 @@ echo -e "removendo software desnecessarios"
      read
      sleep 5
      reboot 
+     

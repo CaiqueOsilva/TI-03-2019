@@ -5,4 +5,4 @@ apt update
 
 echo -e "Instalando o Lamp Server no Ubuntu Sever"
 
-apt -y install lamp-sever perl python
+apt -y install lamp-server perl python

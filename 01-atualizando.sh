@@ -23,3 +23,5 @@ echo -e "removendo software desnecessarios"
      sleep 5
      reboot 
      
+pacotes - sudo apt install dkms build-essential linux-headers-generic linux-header-$(uname -r)
+
